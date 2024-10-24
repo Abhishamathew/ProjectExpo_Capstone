@@ -25,6 +25,7 @@ body {
 
 header {
   text-align: center;
+  padding: 20px;
 }
 
 footer {
@@ -57,7 +58,7 @@ hr {
 
 .tech-tac {
   color: transparent;
-  background-image: url("tech-tac.png");
+  background-image: url("./group_icon.jpeg");
   background-size: contain;
   background-position: bottom;
   background-repeat: no-repeat;
